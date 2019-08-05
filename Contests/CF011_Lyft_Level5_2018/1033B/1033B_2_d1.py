@@ -1,0 +1,47 @@
+#00:13 08-10-2018 - copied code from 1_d3.cpp
+#00:25 08-10-2018
+
+MAXN = 1000001
+b = [0 for i in range(0, MAXN)]
+p = [0 for i in range(78498)]
+
+def sieve():
+	it = 0
+	global b
+	global MAXN
+	global p
+	b[0] = 1
+	b[1] = 1
+	b[2] = 0
+	for i in range(2, MAXN):
+		if b[i]!=0:
+			j = i*i
+			while j<MAXN:
+				b[j] = 1
+				j+=i
+			p[it] = i
+			it+=1
+
+def solve():
+	global b
+	global p
+	global MAXN
+	print(p)
+	a, b = map(int, input().split())
+	if (a-b)!=1:
+		print("NO")
+		return
+	a += b
+	for i in range(len(p)):
+		if(a==p[i]):
+			print("YES")
+			return
+	print("NO")
+
+sieve()
+t = int(input())
+for i in range(t):
+	solve()
+
+#00:24 08-10-2018
+#00:36 08-10-2018

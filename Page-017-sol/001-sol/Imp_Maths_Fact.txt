@@ -1,0 +1,2 @@
+{6a+1, 6a+2, 6a+3, 6a+5} are coprime
+

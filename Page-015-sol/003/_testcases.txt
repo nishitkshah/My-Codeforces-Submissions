@@ -1,0 +1,11 @@
+7 20
+
+//Ans: soln exists
+
+7 21
+
+//Ans: no soln
+
+7 22
+
+//Ans: no soln

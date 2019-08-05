@@ -1,0 +1,5 @@
+map worked faster than unordered_map when unordered_map was not optimized:
+Compare 1029D_1_d3.cpp (AC) to 1029D_1_d2.cpp (TLE)
+
+map worked slower than unordered_map when unordered_map was optimized:
+Compare 1029D_1_d3.cpp (AC) to 1029D_1_d4.cpp (AC)

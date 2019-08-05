@@ -1,0 +1,2 @@
+nlogn solution of Editorial
+https://codeforces.com/contest/220/submission/34494511

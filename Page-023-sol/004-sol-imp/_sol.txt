@@ -1,0 +1,4 @@
+Alternative solution: https://codeforces.com/blog/entry/57516?#comment-412071
+Alternative solution: https://codeforces.com/blog/entry/57516?#comment-411977
+Can use upper_bound instead of lower_bound and addition
+Short solution with one DFS: https://codeforces.com/blog/entry/57516?#comment-412180

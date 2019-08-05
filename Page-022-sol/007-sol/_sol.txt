@@ -1,0 +1,3 @@
+Review problem Ball Machine from BOI 2013
+Set based solution: https://codeforces.com/contest/343/submission/29187241
+Segment Tree based solution: https://codeforces.com/contest/343/submission/19451700

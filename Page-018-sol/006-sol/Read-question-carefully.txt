@@ -1,0 +1,4 @@
+Read question carefully.
+Did not notice that v2>v1.
+I had implicitly assumed it but question could have been framed to not have this condition.
+Had this assumption been false, my solution would not have worked.

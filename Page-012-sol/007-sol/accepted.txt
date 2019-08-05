@@ -1,0 +1,2 @@
+1005D_1_d1.cpp is accepted
+1005D_1_d2.cpp was just for test and does not work

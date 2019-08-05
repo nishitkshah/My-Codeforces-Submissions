@@ -1,0 +1,4 @@
+https://codeforces.com/contest/558/submission/12388409
+Linear: https://codeforces.com/blog/entry/19212?#comment-240878
+nlogn with Heaps: https://codeforces.com/blog/entry/19212?#comment-240873
+https://codeforces.com/blog/entry/19212?#comment-240871

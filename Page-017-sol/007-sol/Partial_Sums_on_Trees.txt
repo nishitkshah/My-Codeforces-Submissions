@@ -1,0 +1,2 @@
+Tree based Type 2 problems as in this link: https://codeforces.com/blog/entry/15729
+Link mentions about arrays

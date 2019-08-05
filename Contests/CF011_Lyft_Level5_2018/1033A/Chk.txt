@@ -1,0 +1,6 @@
+Why is A_1.cpp working for:
+
+8
+3 3
+0 2
+2 0

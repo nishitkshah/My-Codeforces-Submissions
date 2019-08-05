@@ -1,0 +1,67 @@
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>g++ 660C_3.cpp -o 660C_3
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+3 0
+0 0 0
+0
+0 0 0
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+3 1
+0 0 0
+1
+1 0 0
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+3 2
+0 0 0
+2
+1 1 0
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+3 5
+0 0 0
+3
+1 1 1
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+3 2
+0 1 0
+3
+1 1 1
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+3 2
+1 0 1
+3
+1 1 1
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+4 2
+1 0 1 0
+4
+1 1 1 1
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+4 2
+0 0 0 1
+3
+0 1 1 1
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+7 1
+1 0 0 1 1 0 1
+4
+1 0 0 1 1 1 1
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+10 2
+1 0 0 1 0 1 0 1 0 1
+5
+1 0 0 1 1 1 1 1 0 1
+
+N:\Nishit\CP\CodeForces\Page-013-sol\006-sol>660C_3.exe
+3 0
+0 1 0
+1
+0 1 0

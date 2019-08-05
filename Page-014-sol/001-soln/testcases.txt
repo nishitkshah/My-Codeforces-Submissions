@@ -1,0 +1,56 @@
+N:\Nishit\CP\CodeForces\Page-014-sol\001>986A_1.exe
+5 5 4 3
+1 2 4 3 2
+1 2
+2 3
+3 4
+4 1
+4 5
+2 2 2 2 3
+
+N:\Nishit\CP\CodeForces\Page-014-sol\001>986A_1.exe
+7 6 3 2
+1 2 3 3 2 2 1
+1 2
+2 3
+3 4
+2 5
+5 6
+6 7
+1 1 1 2 2 1 1
+
+N:\Nishit\CP\CodeForces\Page-014-sol\001>986A_1.exe
+7 6 3 1
+1 2 3 3 2 2 1
+1 2
+2 3
+3 4
+2 5
+5 6
+6 7
+0 0 0 0 0 0 0
+
+N:\Nishit\CP\CodeForces\Page-014-sol\001>986A_1.exe
+7 6 3 3
+1 2 3 3 2 2 1
+1 2
+2 3
+3 4
+2 5
+5 6
+6 7
+3 2 3 5 4 4 5
+
+N:\Nishit\CP\CodeForces\Page-014-sol\001>986A_1.exe
+5 4 3 3
+1 2 2 2 3
+1 2
+3 4
+4 5
+2 3
+5 4 4 4 5
+
+N:\Nishit\CP\CodeForces\Page-014-sol\001>986A_1.exe
+1 0 1 1
+1
+0

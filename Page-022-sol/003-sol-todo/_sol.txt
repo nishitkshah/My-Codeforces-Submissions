@@ -1,0 +1,6 @@
+Splay Tree: https://codeforces.com/contest/375/submission/5512215
+AVL Tree: https://codeforces.com/contest/375/submission/38543310
+BIT: https://codeforces.com/contest/375/submission/5519196
+Unkown technique (merge list?): https://codeforces.com/contest/375/submission/7511553
+Merging maps: https://codeforces.com/contest/375/submission/5870748
+Unknown (uses BIT): https://codeforces.com/contest/375/submission/5604289
